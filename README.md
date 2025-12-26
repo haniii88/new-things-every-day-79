@@ -1,4 +1,4 @@
-/* New Things Every Day — Day 79 */
+/* New Things Every Day — Da 79 */
 /* Generates a daily activity log with a calculated metric */
 
 function dailyLog79() {
